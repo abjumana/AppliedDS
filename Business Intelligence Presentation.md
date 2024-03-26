@@ -1,7 +1,13 @@
 # Business Intelligence Presentation Proposal
-Put icons
+
+Icons from here - https://icons8.com/icons
 
 ![My Rocket](https://github.com/abjumana/AppliedDS/blob/main/icons8-rocket-100.png)
+
+<img src="https://github.com/abjumana/AppliedDS/blob/main/icons8-rocket-100.png" alt="Sized Rocket" width="25px" height="25px">
+
+
+<img src="url_to_image" alt="alt_text" width="desired_width" height="desired_height">
 
 ## Introduction
 - Overview of the business intelligence topic
