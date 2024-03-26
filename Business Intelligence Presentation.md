@@ -1,4 +1,7 @@
 # Business Intelligence Presentation Proposal
+Put icons
+
+![My Rocket](
 
 ## Introduction
 - Overview of the business intelligence topic
