@@ -1,7 +1,7 @@
 # Business Intelligence Presentation Proposal
 Put icons
 
-![My Rocket](
+![My Rocket](https://github.com/abjumana/AppliedDS/blob/main/icons8-rocket-100.png)
 
 ## Introduction
 - Overview of the business intelligence topic
