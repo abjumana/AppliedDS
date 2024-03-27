@@ -1,4 +1,4 @@
-# Business Intelligence Presentation Proposal
+# <font color="red">Business Intelligence Presentation Proposal</font>
 
 Icons from here - https://icons8.com/icons
 
