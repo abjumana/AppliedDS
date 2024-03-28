@@ -6,13 +6,13 @@
 
 ### This project will be a thorough analysis of Nova Scotia hospitals' total occupancy and their service volumes (emergency visits, admissions, surgical cases and more). I will be using Jupyter Notebook for Exploratory Data Analysis (EDA), SQL Server for managing, querying and transforming the data, and PowerBI for data visualization and reporting.
 
-## 👩 👩‍💻 👩‍🦱 ![pearl](https://github.com/abjumana/AppliedDS/blob/main/Icons/icons8-pearl-50.png) About Me
+## 👩‍💻👩‍🦱 About Me
 
-Hi, my name is Jumana! I am currently completing a graduate certificate in Business Intelligence and Analytics. This program has equipped me with the knowledge and tools essential to kick-start my career in the dynamic fields of Business Intelligence and Data Analytics. ![analytics](https://github.com/abjumana/AppliedDS/blob/main/Icons/icons8-analytics-48.png) Through this presentation, I will showcase the skills and expertise I've acquired.
+Hi, my name is Jumana! I am currently completing a graduate certificate in Business Intelligence and Analytics.📊📈 This program has equipped me with the knowledge and tools essential to kick-start my career in the dynamic fields of Business Intelligence and Data Analytics. Through this presentation, I will showcase the skills and expertise I've acquired.
 
-The dataset I've chosen holds particular significance to me due to my experience working at the IWK Health Centre since September 2020. During my time there, I've gained invaluable insights into the inner workings of hospitals and the intricacies of healthcare systems. This firsthand experience has deepened my understanding of the challenges and opportunities within the healthcare sector, making this dataset not only professionally relevant but also personally meaningful.
+The dataset I've chosen holds particular significance to me due to my experience working at the IWK Health Centre 🏥🩺 since September 2020. During my time there, I've gained invaluable insights into the inner workings of hospitals and the intricacies of healthcare systems. This firsthand experience has deepened my understanding of the challenges and opportunities within the healthcare sector, making this dataset not only professionally relevant but also personally meaningful.😃
 
-## Data Selection & Objectives
+## 👉 Data Selection & Objectives
 
 The Action for Health is a Nova Scotia Government plan, aiming at making healthcare information accessible to the general public. This dataset includes information about patient numbers at all hospitals in Nova Scotia - admissions, surgeries, and more. It covers April 2021 to September 2023. This dataset is pivotal for informed decision-making, offering insights into our healthcare system's current capacity. Moreover, it opens avenues for further exploration when combined with other datasets.
 
