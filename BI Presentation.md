@@ -24,10 +24,10 @@ The _**Action for Health**_ is a Nova Scotia Government plan, aiming at making h
 
 ## 🎯 Objectives
 My main goal for this presentation is to analyse the services offered by the hospitals and look at their measures over time. My presentation will answer questions about the following:
-- [ ] Patient Flow - How many patients are getting discharged and admitted?
-- [ ] Trends by Zone and Hospital - Do certain measures have trends? Do they relate to certain zones or hospitals? Are tthere seasonal variations?
-- [ ] Emergency Department Performance - 
-- [ ] Predictive Analytics for Capacity Planning - What are the predictions for emergency visits, EHS Response Times, Emergency visits 
+- [X] Patient Flow - How many patients are getting discharged and admitted?
+- [X] Trends by Zone and Hospital - Do certain measures have trends? Do they relate to certain zones or hospitals? Are tthere seasonal variations?
+- [X] Emergency Department Performance - 
+- [X] Predictive Analytics for Capacity Planning - What are the predictions for emergency visits, EHS Response Times, Emergency visits 
 
 ## 🖥️ Tools and Techniques
 First off, I will load the flat files to Jupyter Notebook for EDA and perform any necessary data cleaning to ensure data integrity. Next, I will create dimension and fact tables as needed per the Kimball Modeling Methodology. With a complete data mart, I will load the data frames to SQL Server where I will manipulate the data in preparation for reporting and visualisations in PowerBI. This workflow ensures that the data is structured well and is ready for analysis and reporting.
