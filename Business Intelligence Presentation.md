@@ -8,30 +8,35 @@
 
 ## 👩‍💻👩‍🦱 About Me
 
-Hi, my name is Jumana! I am currently completing a graduate certificate in Business Intelligence and Analytics.📊📈 This program has equipped me with the knowledge and tools essential to kick-start my career in the dynamic fields of Business Intelligence and Data Analytics. Through this presentation, I will showcase the skills and expertise I've acquired.
+Hi, my name is Jumana! I am currently completing a graduate certificate in Business Intelligence and Analytics📊📈 
 
-The dataset I've chosen holds particular significance to me due to my experience working at the IWK Health Centre 🏥🩺 since September 2020. During my time there, I've gained invaluable insights into the inner workings of hospitals and the intricacies of healthcare systems. This firsthand experience has deepened my understanding of the challenges and opportunities within the healthcare sector, making this dataset not only professionally relevant but also personally meaningful.😃
+This program has equipped me with the knowledge and tools essential to kick-start my career in the dynamic fields of Business Intelligence and Data Analytics. Through this presentation, I will showcase the skills and expertise I've acquired.
 
-## 👉 Data Selection & Objectives
+The dataset I've chosen holds particular significance to me due to my experience working at the IWK Health Centre 🏥🩺 since September 2020. I've gained invaluable insights into the inner workings of hospitals/healthcare systems. This firsthand experience has deepened my understanding of the challenges and opportunities within the healthcare sector, making this dataset not only professionally relevant but also personally meaningful.
 
-The Action for Health is a Nova Scotia Government plan, aiming at making healthcare information accessible to the general public. This dataset includes information about patient numbers at all hospitals in Nova Scotia - admissions, surgeries, and more. It covers April 2021 to September 2023. This dataset is pivotal for informed decision-making, offering insights into our healthcare system's current capacity. Moreover, it opens avenues for further exploration when combined with other datasets.
+## 👉 Data Selection
 
+The **Action for Health** is a Nova Scotia Government plan, aiming at making healthcare information accessible to the general public and is the source of my dataset. It includes all hospitals in Nova Scotia with 16 measures, aggregated monthly. The measures include emergency visits, admissions, discharges, surgical cases and more. The time period for this data spans from April 2021 to April 2023. This dataset is pivotal for an informed decision-making process for the NS Government and NS Health, offering insights into our healthcare system's current capacity and utilization. Moreover, it opens avenues for further exploration when combined with other data....
+
+## 👉 Objectives
+
+1. 
 The goal of the presentation is to showcase the significance of this dataset in guiding data-driven decisions. By highlighting its potential to reveal insights into healthcare capacity and utilization, we aim to underscore its importance in shaping strategic healthcare policies and practices. Ultimately, our aim is to empower stakeholders with the knowledge and tools needed to leverage data effectively for enhancing healthcare delivery and outcomes.
 
-## Implementation Plan
-- Rehearsals and feedback sessions
-
-## Conclusion
+## 👉 Conclusion/Overview
 - Recap of the expected contributions of the presentation
 - Encouragement for audience engagement
 
-## Appendices
+## 📖 Appendices
 - Bibliography of business intelligence literature
 - Resources for additional learning and exploration
 
 You can read more about the Action for Health Plan here: https://actionforhealth.novascotia.ca
+
 Dataset: https://data.novascotia.ca/Health-and-Wellness/Action-for-Health/m9ng-y7cu/about_data
+
 Jupyter Notebook: https://jupyter.org
+
 PowerBI: https://powerbi.microsoft.com
 
 Icons from here - https://icons8.com/icons
