@@ -1,5 +1,11 @@
 # <h1 align="center"> 💡Capstone Project Proposal </h1> 
 ---
+<h1 align="center">
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</h1> 
+
+<h1 align="center"> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</h1> 
+
 
 <div align="center">
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
