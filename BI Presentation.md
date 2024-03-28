@@ -23,16 +23,19 @@ The dataset I've chosen holds particular significance to me due to my experience
 The _**Action for Health**_ is a Nova Scotia Government plan, aiming at making healthcare information accessible to the general public and is the source of my dataset. It includes all hospitals in Nova Scotia with 16 measures, aggregated monthly. The measures include emergency visits, admissions, discharges, surgical cases and more. The time period for this data spans from April 2021 to September 2023. This dataset is pivotal for an informed decision-making process for both the NS Government and NS Health, offering insights into the current capacity and utilization of our healthcare system. Additionally, it opens avenues for further exploration when integrated with complementary datasets.
 
 ## 🎯 Objectives
-
-The goal of the presentation is to showcase the significance of this dataset in guiding data-driven decisions. By highlighting its potential to reveal insights into healthcare capacity and utilization, we aim to underscore its importance in shaping strategic healthcare policies and practices. Ultimately, our aim is to empower stakeholders with the knowledge and tools needed to leverage data effectively for enhancing healthcare delivery and outcomes.
-- [ ] Obj 1
-- [ ] Obj 2
-- [ ] Obj 3
+Get more specificccccccc
+- [ ] Patient Flow Analysis
+- [ ] Trend Analysis by Zone and Hospital
+- [ ] Capacity Planning and Resource Allocation:
+- [ ] Emergency Department Performance Analysis
+- [ ] Seasonal Variation Analysis
+- [ ] Benchmarking and Comparative Analysis
+- [ ] Predictive Analytics for Capacity Planning
 
 ## 🖥️ Tools and Techniques
 First off, I will load the flat files to Jupyter Notebook for EDA and perform any necessary data cleaning to ensure data integrity. Next, I will create dimension and fact tables as needed per the Kimball Modeling Methodology. With a complete data mart, I will load the data frames to SQL Server where I will manipulate the data in preparation for reporting and visualisations in PowerBI. This workflow ensures that the data is structured well and is ready for analysis and reporting.
 
-> [!NOTE]
+> [!TIP]
 > As part of Team ETL, I will also present a technical tip. I will show how to seamlessly create a connection with the appropriate driver, to load data from Jupyter Notebook to SQL Server, using the same dataset.
 
 ## 📚 Appendices
