@@ -1,10 +1,10 @@
 # 💡Capstone Project Proposal
 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-##### This project will be a thorough analysis of Nova Scotia hospitals' total occupancy and their service volumes (emergency visits, admissions, surgical cases and more). I will be using PowerBI for reporting and data visualization, Jupyter Notebook for EDA and SSMS for managing, querying and transforming the data.
+### This project will be a thorough analysis of Nova Scotia hospitals' total occupancy and their service volumes (emergency visits, admissions, surgical cases and more). I will be using Jupyter Notebook for Exploratory Data Analysis, SSMS for managing, querying and transforming the data and PowerBI for data visualization and reporting.
 
 This data can be important to data-driven decision making. It will provide insights on what the current healthcare system has capacity for and can be further explored with other datasets? something like that?? Goal of the presentation is to ???
 
