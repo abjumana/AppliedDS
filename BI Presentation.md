@@ -23,11 +23,10 @@ The dataset I've chosen holds particular significance to me due to my experience
 The _**Action for Health**_ is a Nova Scotia Government plan, aiming at making healthcare information accessible to the general public and is the source of my dataset. It includes all hospitals in Nova Scotia with 16 measures, aggregated monthly. The measures include emergency visits, admissions, discharges, surgical cases and more. The time period for this data spans from April 2021 to September 2023. This dataset is pivotal for an informed decision-making process for both the NS Government and NS Health, offering insights into the current capacity and utilization of our healthcare system. Additionally, it opens avenues for further exploration when integrated with complementary datasets.
 
 ## 🎯 Objectives
-My main goal for this presentation is to analyse the services offered by the hospitals and look at their measures over time. My presentation will answer questions about the following:
-- [X] Patient Flow - How many patients are getting discharged and admitted?
-- [X] Trends by Zone and Hospital - Do certain measures have trends? Do they relate to certain zones or hospitals? Are tthere seasonal variations?
-- [X] Emergency Department Performance - 
-- [X] Predictive Analytics for Capacity Planning - What are the predictions for emergency visits, EHS Response Times, Emergency visits 
+My main goal for this presentation is to analyse the services offered by the hospitals and look at their measures over time. My presentation will answer the following questions:
+- [X] Patient Flow - How many patients are getting discharged and admitted? Per month and per year?
+- [X] Trends by Zone and Hospital - Do certain measures have trends? Do they relate to certain zones or hospitals? Are there seasonal variations?
+- [X] Predictive Analytics for Capacity Planning - How many patients should we expect this year in regards to emergency visits, admits and discharges? 
 
 ## 🖥️ Tools and Techniques
 First off, I will load the flat files to Jupyter Notebook for EDA and perform any necessary data cleaning to ensure data integrity. Next, I will create dimension and fact tables as needed per the Kimball Modeling Methodology. With a complete data mart, I will load the data frames to SQL Server where I will manipulate the data in preparation for reporting and visualisations in PowerBI. This workflow ensures that the data is structured well and is ready for analysis and reporting.
