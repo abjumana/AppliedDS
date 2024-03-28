@@ -1,6 +1,8 @@
-# <center>Capstone Project Proposale</center>
+# <center>Capstone Project Proposal</center>
 ----------------------------------------------
- <center>Capstone Project Proposale</center>
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 <p style="text-align:center">Center this text</p>
 Icons from here - https://icons8.com/icons
 
