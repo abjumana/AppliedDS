@@ -8,7 +8,7 @@
 
 </div>
 
-<h3 align="center"> <table><tr><td> This project will be a thorough analysis of Nova Scotia hospitals, their total occupancy and  service volumes. I will be using Jupyter Notebook for Exploratory Data Analysis (EDA), SQL Server for data manipulation, and PowerBI for data visualization and reporting.</td></tr></table> </h3>
+<h3 align="center"> <table><tr><td> This project will be a thorough analysis of Nova Scotia hospitals, their total occupancy and service volumes. I will be using Jupyter Notebook for Exploratory Data Analysis (EDA), SQL Server for data manipulation, and PowerBI for data visualization and reporting.</td></tr></table> </h3>
 
 ## 👩‍💻 My Experience
 
@@ -23,14 +23,11 @@ The dataset I've chosen holds particular significance to me due to my experience
 The _**Action for Health**_ is a Nova Scotia Government plan, aiming at making healthcare information accessible to the general public and is the source of my dataset. It includes all hospitals in Nova Scotia with 16 measures, aggregated monthly. The measures include emergency visits, admissions, discharges, surgical cases and more. The time period for this data spans from April 2021 to September 2023. This dataset is pivotal for an informed decision-making process for both the NS Government and NS Health, offering insights into the current capacity and utilization of our healthcare system. Additionally, it opens avenues for further exploration when integrated with complementary datasets.
 
 ## 🎯 Objectives
-Get more specificccccccc
-- [ ] Patient Flow Analysis
-- [ ] Trend Analysis by Zone and Hospital
-- [ ] Capacity Planning and Resource Allocation:
-- [ ] Emergency Department Performance Analysis
-- [ ] Seasonal Variation Analysis
-- [ ] Benchmarking and Comparative Analysis
-- [ ] Predictive Analytics for Capacity Planning
+My main goal for this presentation is to analyse the services offered by the hospitals and look at their measures over time. My presentation will answer questions about the following:
+- [ ] Patient Flow - How many patients are getting discharged and admitted?
+- [ ] Trends by Zone and Hospital - Do certain measures have trends? Do they relate to certain zones or hospitals? Are tthere seasonal variations?
+- [ ] Emergency Department Performance - 
+- [ ] Predictive Analytics for Capacity Planning - What are the predictions for emergency visits, EHS Response Times, Emergency visits 
 
 ## 🖥️ Tools and Techniques
 First off, I will load the flat files to Jupyter Notebook for EDA and perform any necessary data cleaning to ensure data integrity. Next, I will create dimension and fact tables as needed per the Kimball Modeling Methodology. With a complete data mart, I will load the data frames to SQL Server where I will manipulate the data in preparation for reporting and visualisations in PowerBI. This workflow ensures that the data is structured well and is ready for analysis and reporting.
