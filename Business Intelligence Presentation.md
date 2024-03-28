@@ -6,7 +6,7 @@
 
 ### This project will be a thorough analysis of Nova Scotia hospitals' total occupancy and their service volumes (emergency visits, admissions, surgical cases and more). I will be using Jupyter Notebook for Exploratory Data Analysis (EDA), SQL Server for managing, querying and transforming the data, and PowerBI for data visualization and reporting.
 
-## 👩‍🦱 About Me :gem: :diamond_shape_with_a_dot_inside: :sparkles: :pearl:
+## 👩‍🦱 ![pearl](https://github.com/abjumana/AppliedDS/blob/main/Icons/icons8-pearl-50.png) <img src="https://github.com/abjumana/AppliedDS/blob/main/Icons/icons8-pearl-50.png" alt="Pearl Icon" width="20" height="20"> About Me
 
 Hi, my name is Jumana! I am currently completing a graduate certificate in Business Intelligence and Analytics📊📈 
 
@@ -45,4 +45,3 @@ Icons from here - https://icons8.com/icons
 
 <img src="https://github.com/abjumana/AppliedDS/blob/main/icons8-rocket-100.png" alt="Sized Rocket" width="25px" height="25px">
 
-<img src="https://github.com/abjumana/AppliedDS/blob/main/icons8-rocket-100.png" alt="alt_text" width="desired_width" height="desired_height">
