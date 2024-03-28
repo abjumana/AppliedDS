@@ -1,5 +1,5 @@
 <a name="top"></a>
-# <h3 align="center"> 💡Capstone Project Proposal </h3>
+# <h1 align="center"> 💡Capstone Project Proposal </h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
