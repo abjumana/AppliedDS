@@ -1,5 +1,5 @@
 # <center>Capstone Project Proposale</center>
-_________________________________________________
+----------------------------------------------
  <center>Capstone Project Proposale</center>
 <p style="text-align:center">Center this text</p>
 Icons from here - https://icons8.com/icons
