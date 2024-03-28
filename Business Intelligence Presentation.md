@@ -1,5 +1,6 @@
 # 💡Capstone Project Proposal
-
+# <h3 align="center"> My latest Medium posts </h3>
+<a name="top"></a>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -9,6 +10,14 @@
 ## 👩‍🦱 About Me
 
 Hi, my name is Jumana! I am currently completing a graduate certificate in Business Intelligence and Analytics📊📈 
+
+<table><tr><td>The quick brown fox jumps over the lazy dog.</td></tr></table>
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+I need to highlight these ==very important words==.
 
 This program has equipped me with the knowledge and tools essential to kick-start my career in the dynamic fields of Business Intelligence and Data Analytics. Through this presentation, I will showcase the skills and expertise I've acquired.
 
@@ -20,7 +29,6 @@ The **Action for Health** is a Nova Scotia Government plan, aiming at making hea
 
 ## 👉 Objectives
 
-1. 
 The goal of the presentation is to showcase the significance of this dataset in guiding data-driven decisions. By highlighting its potential to reveal insights into healthcare capacity and utilization, we aim to underscore its importance in shaping strategic healthcare policies and practices. Ultimately, our aim is to empower stakeholders with the knowledge and tools needed to leverage data effectively for enhancing healthcare delivery and outcomes.
 
 ## 👉 Conclusion/Overview
@@ -31,7 +39,7 @@ The goal of the presentation is to showcase the significance of this dataset in 
 - Bibliography of business intelligence literature
 - Resources for additional learning and exploration
 
-You can read more about the Action for Health Plan here: https://actionforhealth.novascotia.ca
+You can read more about the Action for Health plan here: https://actionforhealth.novascotia.ca
 
 Dataset: https://data.novascotia.ca/Health-and-Wellness/Action-for-Health/m9ng-y7cu/about_data
 
@@ -39,7 +47,9 @@ Jupyter Notebook: https://jupyter.org
 
 PowerBI: https://powerbi.microsoft.com
 
-Icons from here - https://icons8.com/icons
+Icons from here: https://icons8.com/icons
+
+[Back to top](#top)
 
 ![My Rocket](https://github.com/abjumana/AppliedDS/blob/main/icons8-rocket-100.png)
 
