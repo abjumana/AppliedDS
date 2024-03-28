@@ -1,11 +1,11 @@
-# 💡Capstone Project Proposal
-# <h3 align="center"> My latest Medium posts </h3>
 <a name="top"></a>
+# <h3 align="center"> 💡Capstone Project Proposal </h3>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### This project will be a thorough analysis of Nova Scotia hospitals' total occupancy and their service volumes (emergency visits, admissions, surgical cases and more). I will be using Jupyter Notebook for Exploratory Data Analysis (EDA), SQL Server for managing, querying and transforming the data, and PowerBI for data visualization and reporting.
+### <table><tr><td>This project will be a thorough analysis of Nova Scotia hospitals' total occupancy and their service volumes (emergency visits, admissions, surgical cases and more). I will be using Jupyter Notebook for Exploratory Data Analysis (EDA), SQL Server for managing, querying and transforming the data, and PowerBI for data visualization and reporting.</td></tr></table>
 
 ## 👩‍🦱 About Me
 
@@ -49,7 +49,7 @@ PowerBI: https://powerbi.microsoft.com
 
 Icons from here: https://icons8.com/icons
 
-[Back to top](#top)
+⬆️[Back to top](#top)
 
 ![My Rocket](https://github.com/abjumana/AppliedDS/blob/main/icons8-rocket-100.png)
 
