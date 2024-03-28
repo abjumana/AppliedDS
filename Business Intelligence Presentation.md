@@ -1,21 +1,20 @@
-# <center>Capstone Project Proposal</center>
-----------------------------------------------
+# 💡Capstone Project Proposal
+
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-<p style="text-align:center">Center this text</p>
-Icons from here - https://icons8.com/icons
 
-![My Rocket](https://github.com/abjumana/AppliedDS/blob/main/icons8-rocket-100.png)
+##### This project will be a thorough analysis of Nova Scotia hospitals' total occupancy and their service volumes (emergency visits, admissions, surgical cases and more). I will be using PowerBI for reporting and data visualization, Jupyter Notebook for EDA and SSMS for managing, querying and transforming the data.
 
-<img src="https://github.com/abjumana/AppliedDS/blob/main/icons8-rocket-100.png" alt="Sized Rocket" width="25px" height="25px">
+This data can be important to data-driven decision making. It will provide insights on what the current healthcare system has capacity for and can be further explored with other datasets? something like that?? Goal of the presentation is to ???
 
-
-<img src="https://github.com/abjumana/AppliedDS/blob/main/icons8-rocket-100.png" alt="alt_text" width="desired_width" height="desired_height">
+SMS (SQL Server Management Studio) for Data Storage and Transformation: If your dataset is stored in a SQL Server database, SSMS is a powerful tool for managing, querying, and transforming relational data. You can use SQL queries and scripts to perform more complex data transformations, aggregations, or joins, especially if your dataset is spread across multiple tables or requires complex data manipulations that are better suited for SQL.
 
 
-## Introduction
-For my BI Project, I will be analyzing the 'Action For Health' dataset, diving deep into the heatlhcare system in Nova Scotia, using Python and PowerBI/Tableau. This data can be important to data-driven decision making. It will provide insights on what the current healthcare system has capacity for and can be further explored with other datasets? something like that?? Goal of the presentation is to ???
+
+"I will embark on a comprehensive analysis of the 'Action For Health' dataset, delving deep into Nova Scotia's healthcare system using Python and PowerBI/Tableau. This dataset is pivotal for informed decision-making, offering insights into our healthcare system's current capacity. Moreover, it opens avenues for further exploration when combined with other datasets.
+
+The goal of the presentation is to showcase the significance of this dataset in guiding data-driven decisions. By highlighting its potential to reveal insights into healthcare capacity and utilization, we aim to underscore its importance in shaping strategic healthcare policies and practices. Ultimately, our aim is to empower stakeholders with the knowledge and tools needed to leverage data effectively for enhancing healthcare delivery and outcomes."
 
 
 ## Presentation Candidate
@@ -45,3 +44,11 @@ You can read more about the Action for Health Plan here: https://actionforhealth
 Dataset: https://data.novascotia.ca/Health-and-Wellness/Action-for-Health/m9ng-y7cu/about_data
 Jupyter Notebook: https://jupyter.org
 PowerBI: https://powerbi.microsoft.com
+
+Icons from here - https://icons8.com/icons
+
+![My Rocket](https://github.com/abjumana/AppliedDS/blob/main/icons8-rocket-100.png)
+
+<img src="https://github.com/abjumana/AppliedDS/blob/main/icons8-rocket-100.png" alt="Sized Rocket" width="25px" height="25px">
+
+<img src="https://github.com/abjumana/AppliedDS/blob/main/icons8-rocket-100.png" alt="alt_text" width="desired_width" height="desired_height">
